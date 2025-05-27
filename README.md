@@ -16,5 +16,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Alexander
-[instagram]: https://www.instagram.com/Alexander
-[linkedin]: https://linkedin.com/in/Alexander
+[instagram]: https://www.instagram.com/alexander_j48
+[linkedin]: https://linkedin.com/in/alexander-avellaneda-8b821524b/
