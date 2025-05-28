@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Resource Groups and Storage Accounts](https://github.com/aave4107/Resource-Groups-and-Storage-Accounts)
   - [Virtual Machines and Remote Desktops](https://github.com/aave4107/Virtual-Machines-and-Remote-Desktops)
-  - 
+  - [Configuring a Firewall Network Security Group](https://github.com/aave4107/Configuring-a-Firewall-Network-Security-Group-)
 
 <h2>🤳Connect with me:</h2>
 
