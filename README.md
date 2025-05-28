@@ -8,6 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - Resource Groups and Storage Accounts https://github.com/aave4107/Resource-Groups-and-Storage-Accounts
 
 <h2>🤳Connect with me:</h2>
 
