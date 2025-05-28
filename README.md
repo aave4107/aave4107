@@ -9,7 +9,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Resource Groups and Storage Accounts](https://github.com/aave4107/Resource-Groups-and-Storage-Accounts)
-  - [Virtual Machines and Remote Desktops]
+  - [Virtual Machines and Remote Desktops](https://github.com/aave4107/Virtual-Machines-and-Remote-Desktops)
 
 <h2>🤳Connect with me:</h2>
 
