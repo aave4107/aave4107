@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket Help Desk Simulation](https://github.com/aave4107/Os-Ticket-Help-Desk-Simulation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Resource Groups and Storage Accounts](https://github.com/aave4107/Resource-Groups-and-Storage-Accounts)
