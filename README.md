@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket Installation](https://github.com/aave4107/osTicket-Installation)
   - [osTicket Help Desk Simulation](https://github.com/aave4107/Os-Ticket-Help-Desk-Simulation)
 - <b>Microsoft Azure</b>
   - [Resource Groups and Storage Accounts](https://github.com/aave4107/Resource-Groups-and-Storage-Accounts)
@@ -10,7 +11,7 @@
   - [Configuring a Firewall Network Security Group](https://github.com/aave4107/Configuring-a-Firewall-Network-Security-Group-)
 - <b>Active Directory</b>
   - [Creating Users with PowerShell](https://github.com/aave4107/Creating-Users-with-PowerShell)
-  - 
+
    
 
 <h2>🤳Connect with me:</h2>
