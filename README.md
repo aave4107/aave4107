@@ -9,6 +9,8 @@
   - [Virtual Machines and Remote Desktops](https://github.com/aave4107/Virtual-Machines-and-Remote-Desktops)
   - [Configuring a Firewall Network Security Group](https://github.com/aave4107/Configuring-a-Firewall-Network-Security-Group-)
 - <b>Active Directory</b>
+  - [Creating Users with PowerShell](https://github.com/aave4107/Creating-Users-with-PowerShell)
+  - 
    
 
 <h2>🤳Connect with me:</h2>
