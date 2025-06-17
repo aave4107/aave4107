@@ -8,7 +8,7 @@
   - [osTicket Help Desk Simulation](https://github.com/aave4107/Os-Ticket-Help-Desk-Simulation)
 - <b>Microsoft Azure</b>
   - [Resource Groups and Storage Accounts](https://github.com/aave4107/Resource-Groups-and-Storage-Accounts)
-  - [Virtual Machines and Remote Desktops](https://github.com/aave4107/Virtual-Machines-and-Remote-Desktops)
+  - [Virtual Machines and Network Traffic Examination](https://github.com/aave4107/Virtual-Machine-and-Network-Traffic-Examination)
   - [Configuring a Firewall Network Security Group](https://github.com/aave4107/Configuring-a-Firewall-Network-Security-Group-)
 
    
